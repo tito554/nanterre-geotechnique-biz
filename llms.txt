@@ -1,0 +1,52 @@
+# Geotechnique — Nanterre
+
+> Geotechnical engineering services in Nanterre, France.
+
+## Services
+- [Amelioration Sols](https://nanterre.geotechnique.biz/amelioration-sols/)
+- [Ancrages](https://nanterre.geotechnique.biz/ancrages/)
+- [Cbr Routier](https://nanterre.geotechnique.biz/cbr-routier/)
+- [Chaussee Rigide](https://nanterre.geotechnique.biz/chaussee-rigide/)
+- [Chaussee Souple](https://nanterre.geotechnique.biz/chaussee-souple/)
+- [Colonnes Ballastees](https://nanterre.geotechnique.biz/colonnes-ballastees/)
+- [Confidentialite](https://nanterre.geotechnique.biz/confidentialite/)
+- [Densite Cone Sable](https://nanterre.geotechnique.biz/densite-cone-sable/)
+- [Essai Cpt](https://nanterre.geotechnique.biz/essai-cpt/)
+- [Essais Proctor](https://nanterre.geotechnique.biz/essais-proctor/)
+- [Excavations](https://nanterre.geotechnique.biz/excavations/)
+- [Excavations Profondes](https://nanterre.geotechnique.biz/excavations-profondes/)
+- [Fondations](https://nanterre.geotechnique.biz/fondations/)
+- [Geotechnique Routiere](https://nanterre.geotechnique.biz/geotechnique-routiere/)
+- [Granulometrie](https://nanterre.geotechnique.biz/granulometrie/)
+- [Injections](https://nanterre.geotechnique.biz/injections/)
+- [Investigation](https://nanterre.geotechnique.biz/investigation/)
+- [Isolation Sismique](https://nanterre.geotechnique.biz/isolation-sismique/)
+- [Labo In Situ](https://nanterre.geotechnique.biz/labo-in-situ/)
+- [Laboratoire](https://nanterre.geotechnique.biz/laboratoire/)
+- [Limites Atterberg](https://nanterre.geotechnique.biz/limites-atterberg/)
+- [Liquefaction](https://nanterre.geotechnique.biz/liquefaction/)
+- [Masw](https://nanterre.geotechnique.biz/masw/)
+- [Microzonage Sismique](https://nanterre.geotechnique.biz/microzonage-sismique/)
+- [Murs Soutenement](https://nanterre.geotechnique.biz/murs-soutenement/)
+- [Permeabilite In Situ](https://nanterre.geotechnique.biz/permeabilite-in-situ/)
+- [Pieux](https://nanterre.geotechnique.biz/pieux/)
+- [Puits Inspection](https://nanterre.geotechnique.biz/puits-inspection/)
+- [Radiers](https://nanterre.geotechnique.biz/radiers/)
+- [Refraction Sismique](https://nanterre.geotechnique.biz/refraction-sismique/)
+- [Resistivite](https://nanterre.geotechnique.biz/resistivite/)
+- [Semelles](https://nanterre.geotechnique.biz/semelles/)
+- [Sismique](https://nanterre.geotechnique.biz/sismique/)
+- [Sondages Spt](https://nanterre.geotechnique.biz/sondages-spt/)
+- [Stabilite Talus](https://nanterre.geotechnique.biz/stabilite-talus/)
+- [Surveillance Excavations](https://nanterre.geotechnique.biz/surveillance-excavations/)
+- [Talus](https://nanterre.geotechnique.biz/talus/)
+- [Triaxial](https://nanterre.geotechnique.biz/triaxial/)
+- [Tunnels Sol Mou](https://nanterre.geotechnique.biz/tunnels-sol-mou/)
+- [Vibrocompactage](https://nanterre.geotechnique.biz/vibrocompactage/)
+
+## Contact
+- Website: https://nanterre.geotechnique.biz/
+
+## About
+This site provides geotechnical engineering services in Nanterre, France.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
